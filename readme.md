@@ -1,14 +1,12 @@
 ## Install
 
 ```bash
-$ yarn global add menhera-cli
-
-$ mhr init uu-z/template-module mymodule
+$ yarn menhera menhera-glob
 ```
 
 ## Example
 
-```bash
+```js
 import Mhr from 'menhera';
 import glob from 'menhera-glob';
 
